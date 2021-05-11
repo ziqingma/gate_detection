@@ -1,4 +1,8 @@
 # gate_detection
+# requirement: pytorch 3.7
+
+Computation completed on the cloud
+
 add VOCform.ipynb to WashingtonOBRace to rename data set into Pascal Voc form
 
 Unzip Segmentation.zip containing train.txt, val.txt, tarinval.txt
